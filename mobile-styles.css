@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .side-bar {
+      display: none;
+    }
+    .search {
+      display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    .search input {
+      width: 25rem;
+    }
+  }
